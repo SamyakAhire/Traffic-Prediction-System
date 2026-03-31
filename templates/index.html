@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Smart Traffic 🚦</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <style>
+        /* Chatbot UI */
+        .chatbox {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 320px;
+            background: white;
+            color: black;
+            padding: 10px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+
+        #chat-messages {
+            height: 180px;
+            overflow-y: auto;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+
+        #chat-input {
+            width: 70%;
+            padding: 5px;
+        }
+
+        .chatbox button {
+            padding: 5px 10px;
+        }
+
+        .title {
+            font-size: 32px;
+            text-shadow: 0 0 10px cyan, 0 0 20px cyan;
+            animation: glow 2s infinite alternate;
+        }
+
+        @keyframes glow {
+            from {
+                text-shadow: 0 0 10px cyan;
+            }
+
+            to {
+                text-shadow: 0 0 25px #00f2ff;
+            }
+        }
+
+        #chat-toggle {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: linear-gradient(45deg, #00c6ff, #0072ff);
+            border: none;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+            font-size: 22px;
+            color: white;
+            cursor: pointer;
+            box-shadow: 0 0 15px cyan;
+        }
+    </style>
+</head>
+
+<body>
+<div class="dashboard">
+
+    <!-- LEFT PANEL -->
+    <div class="left">
+
+        <h1 class="title">🚦 Smart Traffic Intelligence</h1>
+
+        <div class="card controls">
+
+            <input type="number" id="hour" placeholder="Enter Hour (0-23)">
+
+            <select id="location">
+                {% for loc in locations %}
+                <option value="{{loc}}">{{loc}}</option>
+                {% endfor %}
+            </select>
+
+            <select id="weather">
+                <option>Clear</option>
+                <option>Rain</option>
+            </select>
+
+            <select id="day">
+                <option>Weekday</option>
+                <option>Weekend</option>
+            </select>
+
+            <button onclick="predict()">Predict</button>
+            <button onclick="useCurrentTime()">⏱ Now</button>
+
+        </div>
+
+        <div class="chart-container">
+            <canvas id="chart"></canvas>
+        </div>
+
+        <div id="map"></div>
+
+    </div>
+
+    <!-- RIGHT PANEL -->
+    <div class="right">
+        <div id="result"></div>
+    </div>
+
+</div>
+
+<!-- Chat Button -->
+<button id="chat-toggle" onclick="toggleChat()">💬</button>
+
+<!-- Alert Box -->
+<div id="alert-box"></div>
+
+<!-- Chatbox -->
+<div class="chatbox" id="chatbox">
+
+    <div class="chat-header">
+        <h3>🤖 Traffic Assistant</h3>
+        <span class="close-btn" onclick="toggleChat()">✖</span>
+    </div>
+
+    <div id="chat-messages"></div>
+
+    <div class="chat-input-area">
+        <input type="text" id="chat-input" placeholder="Ask something...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<!-- Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/static/script.js"></script>
+
+<script>
+    function sendMessage() {
+        let input = document.getElementById("chat-input");
+        let msg = input.value;
+
+        if (!msg) return;
+
+        let chatBox = document.getElementById("chat-messages");
+
+        chatBox.innerHTML += `<div>🧑: ${msg}</div>`;
+
+        fetch("/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ message: msg })
+        })
+            .then(res => res.json())
+            .then(data => {
+                chatBox.innerHTML += `<div>🤖: ${data.reply}</div>`;
+                chatBox.scrollTop = chatBox.scrollHeight;
+            });
+
+        input.value = "";
+    }
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,1201 @@
+Hour,Vehicle_Count,Location,Day_Type,Congestion_Level,Weather
+23,147,Swargate,Weekend,Medium,partly cloudy
+16,261,Pimpri-Chinchwad,Weekday,High,clear
+11,68,Swargate,Weekday,Low,cloudy
+18,60,Wakad,Weekend,Low,clear
+5,235,Shivaji Nagar,Weekend,High,rainy
+10,163,Baner,Weekday,Medium,rainy
+16,158,Hinjewadi,Weekend,Medium,rainy
+21,126,Wakad,Weekday,Medium,clear
+10,269,Viman Nagar,Weekday,High,foggy
+1,299,Wakad,Weekend,High,foggy
+1,249,Viman Nagar,Weekday,High,foggy
+15,286,Hinjewadi,Weekend,High,clear
+0,95,Aundh,Weekend,Medium,clear
+16,188,Swargate,Weekday,High,rainy
+23,279,Pimpri-Chinchwad,Weekday,High,overcast
+20,37,Koregaon Park,Weekend,Low,clear
+6,236,Swargate,Weekday,High,overcast
+10,173,Hadapsar,Weekend,Medium,overcast
+5,56,Baner,Weekend,Low,overcast
+12,226,Viman Nagar,Weekday,High,rainy
+2,124,Baner,Weekend,Medium,partly cloudy
+16,48,Wakad,Weekend,Low,foggy
+14,289,Wakad,Weekday,High,cloudy
+18,49,Swargate,Weekday,Low,cloudy
+19,115,Aundh,Weekend,Medium,clear
+1,103,Swargate,Weekday,Medium,overcast
+20,295,Baner,Weekday,High,clear
+0,27,Nigdi,Weekend,Low,clear
+15,210,Aundh,Weekend,High,clear
+20,68,Hinjewadi,Weekday,Low,rainy
+17,87,Baner,Weekday,Medium,overcast
+11,88,Shivaji Nagar,Weekend,Medium,overcast
+10,116,Viman Nagar,Weekday,Medium,rainy
+5,234,Aundh,Weekday,High,rainy
+6,34,Hinjewadi,Weekday,Low,cloudy
+7,190,Koregaon Park,Weekend,High,clear
+20,206,Swargate,Weekday,High,rainy
+1,234,Wakad,Weekday,High,foggy
+3,109,Swargate,Weekend,Medium,cloudy
+4,211,Viman Nagar,Weekend,High,clear
+20,162,Kothrud,Weekend,Medium,rainy
+23,81,Swargate,Weekend,Medium,cloudy
+11,72,Viman Nagar,Weekend,Low,overcast
+15,170,Kothrud,Weekend,Medium,rainy
+22,290,Koregaon Park,Weekend,High,foggy
+12,187,Viman Nagar,Weekend,High,overcast
+23,104,Hadapsar,Weekday,Medium,clear
+17,56,Koregaon Park,Weekday,Low,rainy
+12,256,Hinjewadi,Weekend,High,foggy
+13,62,Shivaji Nagar,Weekend,Low,clear
+22,139,Kothrud,Weekend,Medium,overcast
+0,243,Viman Nagar,Weekend,High,partly cloudy
+15,169,Aundh,Weekday,Medium,rainy
+12,41,Wakad,Weekday,Low,foggy
+17,80,Aundh,Weekend,Medium,clear
+4,251,Hinjewadi,Weekend,High,overcast
+16,44,Wakad,Weekend,Low,rainy
+16,89,Wakad,Weekend,Medium,clear
+3,153,Pimpri-Chinchwad,Weekend,Medium,foggy
+13,61,Aundh,Weekend,Low,cloudy
+21,231,Hadapsar,Weekend,High,overcast
+6,160,Hadapsar,Weekend,Medium,foggy
+6,283,Pimpri-Chinchwad,Weekday,High,partly cloudy
+4,236,Shivaji Nagar,Weekend,High,rainy
+9,64,Viman Nagar,Weekday,Low,rainy
+19,87,Viman Nagar,Weekday,Medium,foggy
+23,123,Aundh,Weekday,Medium,clear
+3,228,Aundh,Weekend,High,foggy
+8,260,Pimpri-Chinchwad,Weekday,High,foggy
+20,191,Koregaon Park,Weekend,High,overcast
+16,203,Hadapsar,Weekday,High,foggy
+13,148,Kothrud,Weekend,Medium,rainy
+15,27,Viman Nagar,Weekend,Low,clear
+20,150,Shivaji Nagar,Weekend,Medium,partly cloudy
+18,199,Pimpri-Chinchwad,Weekday,High,partly cloudy
+22,133,Viman Nagar,Weekend,Medium,clear
+18,41,Aundh,Weekday,Low,clear
+15,66,Swargate,Weekend,Low,clear
+19,224,Viman Nagar,Weekday,High,overcast
+14,186,Shivaji Nagar,Weekend,High,cloudy
+13,240,Hinjewadi,Weekend,High,cloudy
+23,25,Aundh,Weekday,Low,partly cloudy
+22,115,Kothrud,Weekend,Medium,clear
+19,265,Hadapsar,Weekday,High,overcast
+19,247,Hadapsar,Weekend,High,clear
+17,114,Baner,Weekend,Medium,clear
+7,95,Swargate,Weekend,Medium,rainy
+16,266,Swargate,Weekend,High,clear
+17,104,Pimpri-Chinchwad,Weekend,Medium,rainy
+3,147,Shivaji Nagar,Weekday,Medium,rainy
+22,93,Hinjewadi,Weekday,Medium,cloudy
+3,59,Kothrud,Weekday,Low,clear
+11,22,Pimpri-Chinchwad,Weekend,Low,rainy
+11,69,Aundh,Weekend,Low,clear
+14,83,Koregaon Park,Weekday,Medium,partly cloudy
+14,138,Viman Nagar,Weekend,Medium,overcast
+4,171,Hinjewadi,Weekend,Medium,foggy
+17,228,Hinjewadi,Weekday,High,clear
+2,261,Aundh,Weekend,High,partly cloudy
+8,258,Swargate,Weekend,High,rainy
+4,110,Hinjewadi,Weekend,Medium,overcast
+15,216,Nigdi,Weekday,High,partly cloudy
+16,199,Kothrud,Weekday,High,overcast
+23,221,Viman Nagar,Weekday,High,clear
+12,104,Wakad,Weekday,Medium,overcast
+9,142,Kothrud,Weekend,Medium,clear
+5,199,Hadapsar,Weekend,High,clear
+14,247,Wakad,Weekday,High,cloudy
+7,212,Shivaji Nagar,Weekend,High,cloudy
+18,80,Wakad,Weekend,Medium,cloudy
+5,244,Pimpri-Chinchwad,Weekend,High,rainy
+2,64,Viman Nagar,Weekday,Low,clear
+12,92,Koregaon Park,Weekday,Medium,clear
+15,27,Kothrud,Weekend,Low,clear
+23,23,Pimpri-Chinchwad,Weekend,Low,foggy
+4,75,Nigdi,Weekday,Low,partly cloudy
+19,214,Shivaji Nagar,Weekday,High,overcast
+3,271,Wakad,Weekday,High,rainy
+2,50,Viman Nagar,Weekday,Low,cloudy
+15,117,Kothrud,Weekend,Medium,clear
+1,285,Swargate,Weekend,High,foggy
+1,94,Hinjewadi,Weekend,Medium,overcast
+12,249,Pimpri-Chinchwad,Weekday,High,clear
+8,176,Kothrud,Weekend,Medium,cloudy
+8,84,Nigdi,Weekday,Medium,clear
+21,111,Baner,Weekday,Medium,cloudy
+2,45,Koregaon Park,Weekday,Low,clear
+0,201,Pimpri-Chinchwad,Weekday,High,clear
+18,289,Kothrud,Weekday,High,rainy
+23,137,Viman Nagar,Weekday,Medium,rainy
+14,251,Koregaon Park,Weekday,High,clear
+20,183,Aundh,Weekday,High,rainy
+20,197,Swargate,Weekend,High,cloudy
+11,42,Nigdi,Weekday,Low,clear
+20,51,Nigdi,Weekend,Low,clear
+18,105,Nigdi,Weekday,Medium,foggy
+9,132,Hinjewadi,Weekend,Medium,partly cloudy
+16,144,Wakad,Weekday,Medium,clear
+10,167,Shivaji Nagar,Weekday,Medium,clear
+14,174,Hadapsar,Weekend,Medium,clear
+19,117,Viman Nagar,Weekday,Medium,partly cloudy
+1,286,Wakad,Weekend,High,clear
+3,115,Hadapsar,Weekday,Medium,foggy
+18,80,Viman Nagar,Weekend,Medium,cloudy
+15,55,Shivaji Nagar,Weekend,Low,clear
+6,300,Pimpri-Chinchwad,Weekday,High,rainy
+23,281,Nigdi,Weekday,High,partly cloudy
+17,50,Aundh,Weekday,Low,clear
+12,70,Swargate,Weekend,Low,rainy
+16,67,Nigdi,Weekday,Low,rainy
+22,285,Shivaji Nagar,Weekend,High,clear
+10,167,Kothrud,Weekend,Medium,rainy
+23,173,Aundh,Weekend,Medium,clear
+5,185,Shivaji Nagar,Weekend,High,rainy
+11,81,Aundh,Weekday,Medium,foggy
+9,67,Hinjewadi,Weekend,Low,clear
+2,254,Kothrud,Weekend,High,partly cloudy
+12,88,Kothrud,Weekend,Medium,foggy
+23,205,Aundh,Weekend,High,foggy
+8,119,Kothrud,Weekday,Medium,overcast
+0,72,Wakad,Weekday,Low,overcast
+2,139,Aundh,Weekend,Medium,foggy
+19,61,Hinjewadi,Weekday,Low,partly cloudy
+23,21,Shivaji Nagar,Weekday,Low,cloudy
+23,199,Koregaon Park,Weekend,High,rainy
+23,93,Nigdi,Weekend,Medium,overcast
+10,99,Viman Nagar,Weekday,Medium,foggy
+2,43,Kothrud,Weekend,Low,clear
+6,272,Wakad,Weekend,High,foggy
+8,265,Koregaon Park,Weekend,High,clear
+10,200,Swargate,Weekend,High,clear
+2,27,Swargate,Weekday,Low,foggy
+18,36,Nigdi,Weekend,Low,clear
+9,79,Hadapsar,Weekend,Low,clear
+2,38,Hinjewadi,Weekend,Low,overcast
+4,248,Shivaji Nagar,Weekend,High,overcast
+2,82,Swargate,Weekday,Medium,partly cloudy
+17,139,Wakad,Weekend,Medium,overcast
+16,259,Koregaon Park,Weekday,High,clear
+0,180,Baner,Weekend,High,foggy
+12,286,Aundh,Weekday,High,clear
+4,111,Shivaji Nagar,Weekday,Medium,cloudy
+1,61,Wakad,Weekend,Low,clear
+4,113,Koregaon Park,Weekend,Medium,clear
+22,57,Nigdi,Weekend,Low,partly cloudy
+13,227,Aundh,Weekend,High,foggy
+13,64,Swargate,Weekday,Low,cloudy
+21,298,Hadapsar,Weekend,High,rainy
+5,83,Viman Nagar,Weekday,Medium,foggy
+21,100,Shivaji Nagar,Weekend,Medium,clear
+15,150,Nigdi,Weekend,Medium,overcast
+8,23,Baner,Weekend,Low,clear
+9,187,Wakad,Weekday,High,rainy
+18,101,Wakad,Weekend,Medium,clear
+15,259,Wakad,Weekday,High,cloudy
+19,142,Viman Nagar,Weekend,Medium,clear
+19,147,Pimpri-Chinchwad,Weekend,Medium,clear
+18,130,Baner,Weekday,Medium,clear
+9,250,Hadapsar,Weekend,High,cloudy
+10,45,Shivaji Nagar,Weekday,Low,clear
+22,173,Kothrud,Weekday,Medium,foggy
+15,91,Viman Nagar,Weekday,Medium,clear
+14,43,Koregaon Park,Weekend,Low,rainy
+5,181,Nigdi,Weekday,High,partly cloudy
+12,103,Wakad,Weekday,Medium,rainy
+21,125,Shivaji Nagar,Weekend,Medium,foggy
+0,170,Baner,Weekday,Medium,foggy
+1,90,Kothrud,Weekday,Medium,rainy
+11,116,Kothrud,Weekday,Medium,clear
+1,125,Aundh,Weekend,Medium,clear
+20,153,Koregaon Park,Weekday,Medium,partly cloudy
+6,144,Hinjewadi,Weekday,Medium,cloudy
+9,236,Swargate,Weekend,High,cloudy
+11,225,Kothrud,Weekend,High,rainy
+12,188,Nigdi,Weekend,High,foggy
+15,67,Hinjewadi,Weekend,Low,overcast
+23,69,Wakad,Weekend,Low,overcast
+10,180,Baner,Weekend,High,foggy
+12,76,Kothrud,Weekend,Low,clear
+14,283,Koregaon Park,Weekday,High,rainy
+0,200,Aundh,Weekend,High,rainy
+13,122,Shivaji Nagar,Weekend,Medium,clear
+23,144,Hinjewadi,Weekend,Medium,foggy
+12,152,Hinjewadi,Weekend,Medium,foggy
+14,80,Kothrud,Weekday,Medium,overcast
+12,149,Viman Nagar,Weekend,Medium,clear
+15,299,Swargate,Weekday,High,clear
+5,256,Aundh,Weekend,High,clear
+5,72,Shivaji Nagar,Weekend,Low,partly cloudy
+6,135,Aundh,Weekend,Medium,cloudy
+14,212,Nigdi,Weekday,High,cloudy
+0,215,Baner,Weekend,High,clear
+20,118,Shivaji Nagar,Weekend,Medium,cloudy
+12,94,Kothrud,Weekday,Medium,clear
+1,56,Wakad,Weekday,Low,cloudy
+1,85,Koregaon Park,Weekday,Medium,rainy
+12,294,Pimpri-Chinchwad,Weekend,High,rainy
+7,107,Shivaji Nagar,Weekday,Medium,rainy
+0,219,Hinjewadi,Weekend,High,clear
+2,216,Pimpri-Chinchwad,Weekend,High,cloudy
+0,232,Hadapsar,Weekday,High,clear
+14,266,Baner,Weekend,High,clear
+15,145,Nigdi,Weekday,Medium,overcast
+5,281,Nigdi,Weekday,High,rainy
+17,190,Wakad,Weekend,High,partly cloudy
+15,49,Shivaji Nagar,Weekend,Low,partly cloudy
+0,45,Aundh,Weekday,Low,clear
+3,259,Swargate,Weekend,High,rainy
+5,291,Hadapsar,Weekday,High,clear
+20,246,Nigdi,Weekend,High,foggy
+16,95,Wakad,Weekend,Medium,foggy
+22,244,Swargate,Weekday,High,rainy
+5,172,Shivaji Nagar,Weekend,Medium,foggy
+11,180,Hadapsar,Weekday,High,partly cloudy
+4,131,Swargate,Weekend,Medium,clear
+10,103,Swargate,Weekday,Medium,overcast
+5,154,Pimpri-Chinchwad,Weekday,Medium,overcast
+2,99,Aundh,Weekend,Medium,overcast
+21,237,Hinjewadi,Weekend,High,cloudy
+8,67,Aundh,Weekend,Low,partly cloudy
+10,272,Nigdi,Weekday,High,clear
+8,136,Nigdi,Weekday,Medium,overcast
+9,269,Hadapsar,Weekend,High,rainy
+10,219,Hadapsar,Weekend,High,clear
+18,196,Kothrud,Weekend,High,foggy
+10,116,Koregaon Park,Weekday,Medium,overcast
+10,171,Shivaji Nagar,Weekday,Medium,partly cloudy
+5,226,Pimpri-Chinchwad,Weekday,High,rainy
+15,216,Wakad,Weekend,High,overcast
+8,51,Nigdi,Weekday,Low,clear
+4,71,Shivaji Nagar,Weekend,Low,overcast
+4,133,Pimpri-Chinchwad,Weekend,Medium,cloudy
+3,284,Wakad,Weekday,High,clear
+20,255,Viman Nagar,Weekend,High,partly cloudy
+8,137,Viman Nagar,Weekday,Medium,cloudy
+22,52,Kothrud,Weekend,Low,partly cloudy
+13,20,Baner,Weekend,Low,clear
+2,35,Wakad,Weekend,Low,clear
+20,39,Aundh,Weekday,Low,overcast
+5,262,Pimpri-Chinchwad,Weekend,High,overcast
+21,258,Koregaon Park,Weekend,High,partly cloudy
+12,126,Nigdi,Weekend,Medium,partly cloudy
+6,286,Kothrud,Weekday,High,clear
+5,106,Hadapsar,Weekday,Medium,partly cloudy
+22,110,Hinjewadi,Weekend,Medium,partly cloudy
+1,163,Hinjewadi,Weekday,Medium,cloudy
+11,149,Nigdi,Weekday,Medium,clear
+0,132,Baner,Weekday,Medium,cloudy
+8,225,Viman Nagar,Weekday,High,cloudy
+14,182,Shivaji Nagar,Weekday,High,overcast
+11,169,Nigdi,Weekday,Medium,partly cloudy
+15,291,Hinjewadi,Weekday,High,clear
+0,165,Baner,Weekday,Medium,clear
+14,234,Swargate,Weekday,High,foggy
+7,238,Shivaji Nagar,Weekend,High,foggy
+23,135,Baner,Weekend,Medium,overcast
+23,78,Swargate,Weekend,Low,cloudy
+17,142,Hinjewadi,Weekday,Medium,partly cloudy
+13,109,Baner,Weekday,Medium,cloudy
+12,96,Baner,Weekday,Medium,cloudy
+12,157,Shivaji Nagar,Weekend,Medium,clear
+12,71,Nigdi,Weekend,Low,overcast
+19,134,Koregaon Park,Weekend,Medium,rainy
+0,239,Koregaon Park,Weekday,High,clear
+5,128,Nigdi,Weekend,Medium,foggy
+3,77,Baner,Weekday,Low,clear
+16,165,Koregaon Park,Weekday,Medium,overcast
+11,168,Shivaji Nagar,Weekend,Medium,cloudy
+7,43,Hadapsar,Weekday,Low,cloudy
+0,258,Aundh,Weekend,High,rainy
+4,79,Koregaon Park,Weekday,Low,clear
+11,263,Wakad,Weekend,High,clear
+5,130,Baner,Weekday,Medium,cloudy
+20,122,Kothrud,Weekday,Medium,rainy
+6,78,Baner,Weekday,Low,clear
+19,231,Pimpri-Chinchwad,Weekday,High,clear
+0,299,Hinjewadi,Weekend,High,overcast
+17,206,Nigdi,Weekday,High,partly cloudy
+17,98,Aundh,Weekend,Medium,overcast
+17,255,Shivaji Nagar,Weekday,High,partly cloudy
+20,257,Baner,Weekday,High,rainy
+13,80,Kothrud,Weekday,Medium,clear
+5,258,Viman Nagar,Weekday,High,clear
+19,277,Baner,Weekend,High,foggy
+8,111,Swargate,Weekday,Medium,overcast
+21,161,Shivaji Nagar,Weekday,Medium,cloudy
+10,138,Koregaon Park,Weekend,Medium,clear
+10,44,Swargate,Weekday,Low,partly cloudy
+4,120,Hadapsar,Weekend,Medium,partly cloudy
+19,173,Viman Nagar,Weekday,Medium,rainy
+3,267,Baner,Weekday,High,clear
+11,168,Nigdi,Weekend,Medium,clear
+21,281,Kothrud,Weekend,High,foggy
+11,137,Nigdi,Weekend,Medium,clear
+13,126,Baner,Weekday,Medium,cloudy
+13,191,Hadapsar,Weekend,High,clear
+10,215,Hadapsar,Weekday,High,clear
+18,171,Baner,Weekend,Medium,clear
+4,148,Shivaji Nagar,Weekday,Medium,clear
+1,27,Pimpri-Chinchwad,Weekday,Low,clear
+2,174,Shivaji Nagar,Weekday,Medium,foggy
+21,55,Swargate,Weekday,Low,cloudy
+5,96,Hadapsar,Weekend,Medium,clear
+20,123,Baner,Weekend,Medium,overcast
+1,55,Shivaji Nagar,Weekday,Low,clear
+5,185,Aundh,Weekday,High,cloudy
+3,155,Viman Nagar,Weekend,Medium,foggy
+11,174,Koregaon Park,Weekend,Medium,rainy
+13,62,Nigdi,Weekend,Low,cloudy
+6,287,Baner,Weekday,High,overcast
+4,117,Swargate,Weekend,Medium,cloudy
+2,83,Wakad,Weekday,Medium,cloudy
+20,252,Aundh,Weekday,High,rainy
+20,148,Hadapsar,Weekday,Medium,clear
+9,112,Swargate,Weekday,Medium,foggy
+1,248,Aundh,Weekend,High,partly cloudy
+6,164,Pimpri-Chinchwad,Weekend,Medium,partly cloudy
+7,105,Wakad,Weekend,Medium,partly cloudy
+4,56,Kothrud,Weekend,Low,rainy
+3,128,Shivaji Nagar,Weekday,Medium,rainy
+0,293,Viman Nagar,Weekday,High,partly cloudy
+20,167,Nigdi,Weekend,Medium,foggy
+11,298,Kothrud,Weekend,High,overcast
+10,237,Baner,Weekday,High,cloudy
+10,293,Wakad,Weekday,High,rainy
+22,214,Wakad,Weekday,High,overcast
+13,291,Hinjewadi,Weekend,High,foggy
+22,150,Baner,Weekend,Medium,overcast
+9,116,Viman Nagar,Weekday,Medium,rainy
+6,65,Wakad,Weekday,Low,cloudy
+19,58,Pimpri-Chinchwad,Weekday,Low,foggy
+21,187,Viman Nagar,Weekday,High,cloudy
+13,77,Baner,Weekend,Low,clear
+19,157,Wakad,Weekend,Medium,clear
+4,150,Wakad,Weekend,Medium,partly cloudy
+18,59,Nigdi,Weekend,Low,rainy
+0,233,Hinjewadi,Weekday,High,overcast
+12,90,Wakad,Weekday,Medium,cloudy
+6,240,Hinjewadi,Weekday,High,rainy
+9,260,Swargate,Weekend,High,rainy
+6,286,Kothrud,Weekend,High,overcast
+12,236,Baner,Weekday,High,clear
+21,267,Hinjewadi,Weekend,High,cloudy
+23,139,Nigdi,Weekday,Medium,clear
+18,207,Swargate,Weekend,High,overcast
+18,218,Baner,Weekend,High,foggy
+14,100,Koregaon Park,Weekend,Medium,clear
+11,273,Koregaon Park,Weekend,High,foggy
+2,30,Baner,Weekend,Low,partly cloudy
+21,150,Koregaon Park,Weekend,Medium,overcast
+15,92,Kothrud,Weekday,Medium,clear
+10,255,Hadapsar,Weekend,High,cloudy
+16,103,Wakad,Weekday,Medium,foggy
+10,225,Kothrud,Weekday,High,clear
+23,240,Nigdi,Weekday,High,clear
+20,62,Aundh,Weekend,Low,rainy
+16,246,Koregaon Park,Weekday,High,clear
+19,276,Nigdi,Weekend,High,rainy
+20,142,Baner,Weekday,Medium,clear
+3,171,Koregaon Park,Weekend,Medium,clear
+23,144,Wakad,Weekday,Medium,clear
+14,207,Wakad,Weekday,High,overcast
+14,250,Nigdi,Weekend,High,clear
+7,121,Nigdi,Weekend,Medium,rainy
+0,184,Koregaon Park,Weekday,High,clear
+13,210,Pimpri-Chinchwad,Weekday,High,cloudy
+11,22,Kothrud,Weekend,Low,cloudy
+16,119,Swargate,Weekend,Medium,rainy
+4,247,Baner,Weekend,High,clear
+22,235,Koregaon Park,Weekday,High,overcast
+10,279,Wakad,Weekday,High,clear
+10,73,Koregaon Park,Weekend,Low,foggy
+13,155,Hinjewadi,Weekend,Medium,clear
+15,203,Pimpri-Chinchwad,Weekend,High,rainy
+17,121,Kothrud,Weekday,Medium,clear
+12,202,Hadapsar,Weekend,High,rainy
+14,176,Hadapsar,Weekend,Medium,partly cloudy
+4,58,Swargate,Weekday,Low,overcast
+19,103,Aundh,Weekend,Medium,clear
+14,272,Aundh,Weekend,High,foggy
+7,65,Koregaon Park,Weekday,Low,clear
+1,151,Shivaji Nagar,Weekend,Medium,overcast
+16,214,Koregaon Park,Weekend,High,partly cloudy
+8,113,Wakad,Weekday,Medium,cloudy
+14,97,Hinjewadi,Weekend,Medium,clear
+2,198,Wakad,Weekend,High,partly cloudy
+16,273,Baner,Weekend,High,foggy
+17,247,Wakad,Weekday,High,rainy
+16,110,Viman Nagar,Weekend,Medium,rainy
+17,127,Pimpri-Chinchwad,Weekday,Medium,foggy
+18,74,Viman Nagar,Weekday,Low,foggy
+5,133,Aundh,Weekday,Medium,rainy
+0,45,Hinjewadi,Weekend,Low,overcast
+11,122,Aundh,Weekday,Medium,cloudy
+21,253,Kothrud,Weekday,High,partly cloudy
+22,20,Hadapsar,Weekday,Low,cloudy
+6,190,Baner,Weekday,High,cloudy
+7,261,Hadapsar,Weekend,High,clear
+22,146,Nigdi,Weekend,Medium,clear
+10,237,Viman Nagar,Weekday,High,rainy
+5,202,Swargate,Weekday,High,overcast
+22,191,Shivaji Nagar,Weekend,High,foggy
+13,240,Pimpri-Chinchwad,Weekend,High,cloudy
+19,297,Hadapsar,Weekend,High,cloudy
+19,44,Wakad,Weekday,Low,rainy
+21,67,Shivaji Nagar,Weekend,Low,cloudy
+2,160,Viman Nagar,Weekday,Medium,rainy
+18,266,Hinjewadi,Weekend,High,clear
+12,276,Swargate,Weekend,High,foggy
+10,75,Viman Nagar,Weekday,Low,rainy
+18,263,Baner,Weekday,High,clear
+9,207,Hadapsar,Weekday,High,clear
+9,224,Viman Nagar,Weekday,High,clear
+5,216,Nigdi,Weekend,High,clear
+0,288,Aundh,Weekday,High,foggy
+13,173,Wakad,Weekday,Medium,clear
+10,116,Koregaon Park,Weekend,Medium,clear
+16,236,Pimpri-Chinchwad,Weekday,High,partly cloudy
+12,78,Pimpri-Chinchwad,Weekend,Low,cloudy
+1,175,Hinjewadi,Weekday,Medium,rainy
+22,159,Wakad,Weekday,Medium,clear
+3,54,Wakad,Weekend,Low,clear
+9,290,Kothrud,Weekend,High,foggy
+2,178,Viman Nagar,Weekend,Medium,clear
+22,30,Koregaon Park,Weekend,Low,partly cloudy
+20,167,Nigdi,Weekday,Medium,rainy
+18,250,Shivaji Nagar,Weekday,High,rainy
+2,280,Aundh,Weekday,High,cloudy
+5,46,Koregaon Park,Weekend,Low,clear
+19,83,Kothrud,Weekend,Medium,overcast
+2,116,Koregaon Park,Weekend,Medium,clear
+21,100,Baner,Weekend,Medium,clear
+22,115,Kothrud,Weekend,Medium,overcast
+20,274,Hadapsar,Weekday,High,overcast
+10,252,Viman Nagar,Weekday,High,overcast
+22,292,Wakad,Weekend,High,partly cloudy
+4,152,Viman Nagar,Weekday,Medium,rainy
+4,216,Baner,Weekday,High,rainy
+15,156,Aundh,Weekday,Medium,clear
+17,181,Baner,Weekday,High,cloudy
+20,191,Kothrud,Weekday,High,cloudy
+2,205,Kothrud,Weekend,High,partly cloudy
+18,208,Hinjewadi,Weekday,High,overcast
+10,87,Shivaji Nagar,Weekday,Medium,foggy
+2,103,Aundh,Weekend,Medium,clear
+12,30,Hadapsar,Weekend,Low,clear
+8,163,Koregaon Park,Weekend,Medium,clear
+8,36,Wakad,Weekend,Low,overcast
+10,202,Hinjewadi,Weekday,High,rainy
+15,153,Hadapsar,Weekend,Medium,clear
+15,153,Shivaji Nagar,Weekend,Medium,partly cloudy
+22,191,Baner,Weekend,High,cloudy
+11,290,Hinjewadi,Weekday,High,cloudy
+10,143,Hinjewadi,Weekend,Medium,overcast
+15,179,Koregaon Park,Weekend,Medium,overcast
+6,53,Kothrud,Weekday,Low,overcast
+16,267,Viman Nagar,Weekend,High,clear
+18,158,Swargate,Weekend,Medium,clear
+4,27,Hadapsar,Weekday,Low,rainy
+19,142,Shivaji Nagar,Weekday,Medium,clear
+0,175,Baner,Weekday,Medium,overcast
+23,209,Aundh,Weekend,High,clear
+2,295,Hadapsar,Weekend,High,foggy
+15,136,Nigdi,Weekend,Medium,cloudy
+22,109,Viman Nagar,Weekday,Medium,foggy
+12,132,Wakad,Weekday,Medium,rainy
+7,282,Aundh,Weekday,High,foggy
+22,289,Kothrud,Weekday,High,overcast
+7,79,Pimpri-Chinchwad,Weekday,Low,partly cloudy
+5,68,Baner,Weekend,Low,rainy
+23,24,Swargate,Weekday,Low,clear
+12,130,Wakad,Weekend,Medium,rainy
+4,124,Nigdi,Weekday,Medium,foggy
+17,134,Koregaon Park,Weekday,Medium,partly cloudy
+21,117,Hadapsar,Weekday,Medium,cloudy
+19,295,Wakad,Weekend,High,overcast
+5,56,Viman Nagar,Weekend,Low,cloudy
+1,81,Kothrud,Weekend,Medium,clear
+2,95,Baner,Weekend,Medium,partly cloudy
+1,143,Aundh,Weekday,Medium,partly cloudy
+8,168,Koregaon Park,Weekend,Medium,rainy
+11,37,Viman Nagar,Weekday,Low,overcast
+0,286,Viman Nagar,Weekend,High,clear
+2,298,Hinjewadi,Weekend,High,clear
+21,134,Wakad,Weekday,Medium,overcast
+4,88,Baner,Weekend,Medium,foggy
+23,199,Hinjewadi,Weekend,High,overcast
+20,52,Pimpri-Chinchwad,Weekday,Low,rainy
+7,103,Aundh,Weekday,Medium,cloudy
+7,148,Viman Nagar,Weekend,Medium,overcast
+6,170,Baner,Weekend,Medium,clear
+2,139,Swargate,Weekend,Medium,cloudy
+14,223,Shivaji Nagar,Weekend,High,partly cloudy
+11,175,Pimpri-Chinchwad,Weekday,Medium,clear
+2,97,Wakad,Weekend,Medium,cloudy
+1,133,Aundh,Weekend,Medium,cloudy
+15,134,Aundh,Weekend,Medium,clear
+9,177,Aundh,Weekday,Medium,clear
+14,157,Shivaji Nagar,Weekend,Medium,foggy
+18,55,Nigdi,Weekday,Low,rainy
+8,201,Viman Nagar,Weekday,High,overcast
+10,177,Nigdi,Weekend,Medium,cloudy
+11,73,Koregaon Park,Weekend,Low,foggy
+12,132,Hinjewadi,Weekday,Medium,clear
+1,130,Kothrud,Weekend,Medium,overcast
+0,285,Koregaon Park,Weekend,High,rainy
+21,85,Swargate,Weekend,Medium,overcast
+15,41,Hadapsar,Weekday,Low,clear
+10,241,Pimpri-Chinchwad,Weekday,High,clear
+15,181,Shivaji Nagar,Weekday,High,partly cloudy
+22,218,Hadapsar,Weekend,High,cloudy
+7,102,Hinjewadi,Weekend,Medium,cloudy
+17,172,Koregaon Park,Weekend,Medium,foggy
+17,180,Shivaji Nagar,Weekend,High,clear
+13,66,Pimpri-Chinchwad,Weekend,Low,clear
+20,22,Baner,Weekend,Low,cloudy
+22,269,Hinjewadi,Weekend,High,rainy
+7,90,Shivaji Nagar,Weekday,Medium,rainy
+17,36,Swargate,Weekday,Low,foggy
+12,47,Baner,Weekend,Low,foggy
+9,23,Pimpri-Chinchwad,Weekend,Low,clear
+16,227,Aundh,Weekday,High,partly cloudy
+21,79,Viman Nagar,Weekend,Low,overcast
+22,103,Shivaji Nagar,Weekend,Medium,rainy
+9,43,Hadapsar,Weekday,Low,cloudy
+18,136,Baner,Weekday,Medium,clear
+7,101,Aundh,Weekday,Medium,foggy
+1,147,Hadapsar,Weekday,Medium,foggy
+15,82,Aundh,Weekend,Medium,clear
+16,137,Nigdi,Weekend,Medium,clear
+20,287,Shivaji Nagar,Weekday,High,foggy
+15,194,Viman Nagar,Weekday,High,clear
+6,116,Pimpri-Chinchwad,Weekday,Medium,clear
+6,158,Aundh,Weekday,Medium,overcast
+5,277,Shivaji Nagar,Weekday,High,cloudy
+19,48,Baner,Weekday,Low,cloudy
+0,75,Pimpri-Chinchwad,Weekday,Low,foggy
+8,100,Hinjewadi,Weekday,Medium,foggy
+17,31,Shivaji Nagar,Weekday,Low,cloudy
+7,106,Wakad,Weekend,Medium,overcast
+12,123,Koregaon Park,Weekday,Medium,foggy
+11,34,Pimpri-Chinchwad,Weekday,Low,partly cloudy
+15,239,Kothrud,Weekend,High,overcast
+16,51,Hadapsar,Weekday,Low,partly cloudy
+1,95,Nigdi,Weekend,Medium,overcast
+22,114,Swargate,Weekday,Medium,rainy
+14,161,Hinjewadi,Weekend,Medium,rainy
+0,206,Aundh,Weekday,High,partly cloudy
+5,94,Baner,Weekday,Medium,clear
+14,194,Viman Nagar,Weekday,High,clear
+22,169,Koregaon Park,Weekday,Medium,cloudy
+19,290,Nigdi,Weekday,High,clear
+14,295,Swargate,Weekday,High,clear
+22,178,Nigdi,Weekday,Medium,clear
+9,120,Baner,Weekend,Medium,cloudy
+14,151,Hinjewadi,Weekend,Medium,cloudy
+22,25,Kothrud,Weekday,Low,foggy
+13,133,Koregaon Park,Weekday,Medium,partly cloudy
+12,237,Wakad,Weekend,High,cloudy
+3,57,Pimpri-Chinchwad,Weekend,Low,partly cloudy
+5,52,Shivaji Nagar,Weekday,Low,clear
+7,34,Kothrud,Weekday,Low,rainy
+18,92,Viman Nagar,Weekday,Medium,rainy
+22,194,Shivaji Nagar,Weekend,High,partly cloudy
+13,78,Aundh,Weekday,Low,clear
+10,224,Hadapsar,Weekend,High,clear
+10,24,Viman Nagar,Weekday,Low,clear
+15,286,Kothrud,Weekday,High,clear
+16,228,Aundh,Weekday,High,rainy
+22,111,Koregaon Park,Weekend,Medium,partly cloudy
+12,75,Nigdi,Weekday,Low,clear
+11,128,Aundh,Weekend,Medium,rainy
+4,141,Viman Nagar,Weekday,Medium,rainy
+10,93,Koregaon Park,Weekend,Medium,clear
+5,180,Kothrud,Weekday,High,partly cloudy
+14,148,Aundh,Weekend,Medium,overcast
+1,81,Baner,Weekend,Medium,cloudy
+20,56,Baner,Weekend,Low,rainy
+3,289,Wakad,Weekend,High,clear
+21,246,Pimpri-Chinchwad,Weekend,High,partly cloudy
+8,63,Baner,Weekend,Low,partly cloudy
+8,111,Wakad,Weekday,Medium,partly cloudy
+20,125,Hinjewadi,Weekday,Medium,clear
+19,262,Hadapsar,Weekend,High,overcast
+17,74,Wakad,Weekend,Low,partly cloudy
+12,102,Shivaji Nagar,Weekend,Medium,clear
+12,149,Wakad,Weekday,Medium,overcast
+4,100,Aundh,Weekday,Medium,overcast
+2,220,Pimpri-Chinchwad,Weekday,High,overcast
+7,283,Nigdi,Weekend,High,clear
+17,254,Baner,Weekend,High,clear
+14,193,Hinjewadi,Weekend,High,overcast
+4,286,Swargate,Weekday,High,rainy
+15,240,Wakad,Weekday,High,cloudy
+2,193,Nigdi,Weekday,High,clear
+0,188,Pimpri-Chinchwad,Weekday,High,foggy
+22,66,Baner,Weekday,Low,partly cloudy
+16,201,Pimpri-Chinchwad,Weekday,High,foggy
+19,82,Pimpri-Chinchwad,Weekend,Medium,rainy
+19,272,Viman Nagar,Weekday,High,foggy
+3,36,Baner,Weekend,Low,overcast
+23,215,Koregaon Park,Weekend,High,rainy
+16,120,Wakad,Weekend,Medium,clear
+19,117,Wakad,Weekend,Medium,rainy
+20,53,Pimpri-Chinchwad,Weekday,Low,overcast
+23,290,Koregaon Park,Weekend,High,rainy
+1,147,Wakad,Weekend,Medium,partly cloudy
+16,91,Kothrud,Weekend,Medium,partly cloudy
+15,112,Pimpri-Chinchwad,Weekday,Medium,cloudy
+20,103,Pimpri-Chinchwad,Weekend,Medium,cloudy
+16,59,Aundh,Weekend,Low,cloudy
+21,262,Viman Nagar,Weekend,High,cloudy
+8,219,Wakad,Weekday,High,clear
+22,256,Hinjewadi,Weekend,High,rainy
+2,173,Hadapsar,Weekend,Medium,partly cloudy
+19,97,Aundh,Weekday,Medium,cloudy
+5,163,Nigdi,Weekend,Medium,foggy
+8,281,Wakad,Weekend,High,partly cloudy
+6,210,Nigdi,Weekend,High,clear
+3,292,Nigdi,Weekday,High,cloudy
+18,275,Kothrud,Weekend,High,partly cloudy
+10,117,Nigdi,Weekday,Medium,partly cloudy
+17,283,Hadapsar,Weekday,High,clear
+14,43,Hinjewadi,Weekday,Low,partly cloudy
+12,267,Viman Nagar,Weekend,High,partly cloudy
+8,151,Baner,Weekday,Medium,clear
+23,285,Hadapsar,Weekend,High,rainy
+7,278,Kothrud,Weekday,High,cloudy
+6,232,Hadapsar,Weekday,High,overcast
+20,76,Aundh,Weekday,Low,clear
+0,99,Baner,Weekend,Medium,overcast
+12,32,Swargate,Weekday,Low,clear
+3,196,Pimpri-Chinchwad,Weekday,High,foggy
+7,298,Pimpri-Chinchwad,Weekday,High,clear
+13,218,Hadapsar,Weekday,High,partly cloudy
+22,276,Viman Nagar,Weekend,High,overcast
+13,250,Shivaji Nagar,Weekend,High,partly cloudy
+15,278,Koregaon Park,Weekend,High,overcast
+5,159,Swargate,Weekday,Medium,foggy
+22,250,Swargate,Weekday,High,clear
+22,119,Viman Nagar,Weekend,Medium,overcast
+11,185,Kothrud,Weekday,High,clear
+11,260,Shivaji Nagar,Weekday,High,clear
+4,187,Wakad,Weekday,High,rainy
+16,286,Koregaon Park,Weekday,High,partly cloudy
+18,165,Aundh,Weekend,Medium,partly cloudy
+10,193,Nigdi,Weekday,High,overcast
+15,33,Aundh,Weekday,Low,overcast
+21,114,Pimpri-Chinchwad,Weekend,Medium,overcast
+3,103,Swargate,Weekday,Medium,clear
+18,149,Pimpri-Chinchwad,Weekday,Medium,clear
+1,270,Koregaon Park,Weekend,High,cloudy
+14,183,Hadapsar,Weekend,High,partly cloudy
+12,184,Pimpri-Chinchwad,Weekday,High,overcast
+0,285,Shivaji Nagar,Weekday,High,foggy
+2,260,Koregaon Park,Weekend,High,partly cloudy
+12,22,Shivaji Nagar,Weekend,Low,cloudy
+14,78,Viman Nagar,Weekend,Low,clear
+14,93,Pimpri-Chinchwad,Weekend,Medium,partly cloudy
+3,92,Swargate,Weekend,Medium,rainy
+17,134,Wakad,Weekend,Medium,partly cloudy
+15,167,Pimpri-Chinchwad,Weekend,Medium,clear
+12,145,Viman Nagar,Weekday,Medium,foggy
+5,241,Viman Nagar,Weekday,High,clear
+2,234,Hinjewadi,Weekend,High,partly cloudy
+2,172,Viman Nagar,Weekend,Medium,overcast
+12,134,Nigdi,Weekday,Medium,clear
+4,288,Aundh,Weekend,High,overcast
+17,80,Nigdi,Weekend,Medium,clear
+2,50,Swargate,Weekend,Low,overcast
+18,136,Shivaji Nagar,Weekday,Medium,rainy
+23,32,Viman Nagar,Weekend,Low,cloudy
+10,250,Hinjewadi,Weekday,High,rainy
+13,183,Aundh,Weekend,High,foggy
+21,41,Baner,Weekday,Low,rainy
+13,73,Nigdi,Weekday,Low,overcast
+11,22,Hinjewadi,Weekday,Low,rainy
+13,156,Nigdi,Weekday,Medium,cloudy
+20,149,Shivaji Nagar,Weekday,Medium,overcast
+6,270,Aundh,Weekend,High,clear
+13,261,Viman Nagar,Weekday,High,clear
+14,73,Kothrud,Weekend,Low,cloudy
+13,165,Nigdi,Weekend,Medium,clear
+20,202,Aundh,Weekend,High,clear
+1,183,Viman Nagar,Weekend,High,rainy
+23,207,Swargate,Weekend,High,overcast
+21,121,Koregaon Park,Weekend,Medium,clear
+15,83,Koregaon Park,Weekend,Medium,clear
+14,270,Kothrud,Weekend,High,rainy
+15,219,Baner,Weekend,High,clear
+14,140,Baner,Weekday,Medium,cloudy
+2,50,Pimpri-Chinchwad,Weekend,Low,clear
+1,97,Koregaon Park,Weekend,Medium,overcast
+18,247,Hadapsar,Weekend,High,cloudy
+13,236,Wakad,Weekday,High,cloudy
+23,98,Baner,Weekend,Medium,rainy
+4,113,Viman Nagar,Weekend,Medium,overcast
+4,128,Baner,Weekend,Medium,clear
+17,90,Swargate,Weekend,Medium,overcast
+2,154,Baner,Weekend,Medium,overcast
+5,297,Baner,Weekday,High,foggy
+12,158,Pimpri-Chinchwad,Weekday,Medium,rainy
+0,157,Pimpri-Chinchwad,Weekend,Medium,clear
+5,291,Shivaji Nagar,Weekday,High,partly cloudy
+3,94,Hinjewadi,Weekday,Medium,overcast
+12,62,Koregaon Park,Weekend,Low,foggy
+22,236,Shivaji Nagar,Weekday,High,overcast
+11,125,Koregaon Park,Weekday,Medium,cloudy
+20,150,Hinjewadi,Weekday,Medium,clear
+12,250,Shivaji Nagar,Weekday,High,rainy
+10,287,Hinjewadi,Weekday,High,cloudy
+20,222,Nigdi,Weekday,High,foggy
+6,206,Hinjewadi,Weekend,High,clear
+22,194,Wakad,Weekday,High,overcast
+15,100,Hadapsar,Weekday,Medium,rainy
+4,294,Hinjewadi,Weekend,High,partly cloudy
+12,207,Koregaon Park,Weekend,High,overcast
+8,227,Aundh,Weekday,High,clear
+19,232,Wakad,Weekend,High,cloudy
+12,26,Wakad,Weekend,Low,partly cloudy
+9,219,Baner,Weekday,High,rainy
+23,263,Pimpri-Chinchwad,Weekend,High,clear
+10,26,Nigdi,Weekday,Low,overcast
+22,101,Swargate,Weekend,Medium,partly cloudy
+16,226,Swargate,Weekend,High,clear
+5,35,Nigdi,Weekend,Low,cloudy
+18,231,Baner,Weekday,High,foggy
+17,49,Kothrud,Weekday,Low,overcast
+8,277,Nigdi,Weekday,High,foggy
+2,52,Pimpri-Chinchwad,Weekend,Low,cloudy
+23,144,Aundh,Weekend,Medium,cloudy
+19,273,Nigdi,Weekday,High,rainy
+17,224,Shivaji Nagar,Weekday,High,overcast
+18,213,Koregaon Park,Weekend,High,overcast
+16,159,Hadapsar,Weekday,Medium,rainy
+0,99,Koregaon Park,Weekday,Medium,foggy
+7,73,Viman Nagar,Weekend,Low,overcast
+14,256,Swargate,Weekday,High,clear
+7,127,Koregaon Park,Weekday,Medium,foggy
+5,222,Hadapsar,Weekend,High,partly cloudy
+10,107,Koregaon Park,Weekend,Medium,foggy
+18,75,Kothrud,Weekend,Low,rainy
+12,153,Baner,Weekday,Medium,rainy
+9,183,Hinjewadi,Weekday,High,cloudy
+19,52,Baner,Weekend,Low,cloudy
+18,86,Baner,Weekend,Medium,overcast
+6,203,Koregaon Park,Weekday,High,clear
+11,215,Viman Nagar,Weekend,High,rainy
+4,183,Kothrud,Weekday,High,overcast
+5,149,Shivaji Nagar,Weekend,Medium,rainy
+11,41,Hinjewadi,Weekday,Low,overcast
+18,106,Hinjewadi,Weekend,Medium,cloudy
+10,200,Kothrud,Weekday,High,overcast
+19,193,Kothrud,Weekday,High,foggy
+12,243,Viman Nagar,Weekday,High,clear
+11,135,Hadapsar,Weekday,Medium,overcast
+14,225,Kothrud,Weekday,High,overcast
+0,252,Kothrud,Weekend,High,foggy
+9,214,Nigdi,Weekend,High,clear
+2,137,Wakad,Weekday,Medium,cloudy
+0,35,Koregaon Park,Weekday,Low,clear
+17,71,Hadapsar,Weekend,Low,foggy
+3,215,Hinjewadi,Weekday,High,overcast
+7,283,Nigdi,Weekend,High,cloudy
+14,53,Baner,Weekend,Low,clear
+17,93,Viman Nagar,Weekday,Medium,clear
+20,116,Hadapsar,Weekend,Medium,clear
+16,100,Hadapsar,Weekday,Medium,rainy
+13,140,Shivaji Nagar,Weekend,Medium,foggy
+9,255,Kothrud,Weekend,High,partly cloudy
+8,297,Nigdi,Weekday,High,rainy
+4,35,Hadapsar,Weekend,Low,cloudy
+9,221,Hadapsar,Weekday,High,partly cloudy
+5,87,Hadapsar,Weekend,Medium,foggy
+2,90,Hinjewadi,Weekday,Medium,partly cloudy
+11,151,Nigdi,Weekend,Medium,clear
+7,267,Koregaon Park,Weekday,High,rainy
+2,128,Swargate,Weekday,Medium,clear
+14,97,Pimpri-Chinchwad,Weekday,Medium,clear
+4,77,Kothrud,Weekday,Low,cloudy
+2,101,Shivaji Nagar,Weekday,Medium,rainy
+18,121,Swargate,Weekday,Medium,overcast
+0,56,Aundh,Weekend,Low,clear
+5,61,Kothrud,Weekday,Low,clear
+18,267,Aundh,Weekend,High,clear
+10,283,Kothrud,Weekday,High,foggy
+12,26,Kothrud,Weekend,Low,foggy
+12,183,Baner,Weekend,High,cloudy
+15,239,Aundh,Weekday,High,clear
+8,219,Nigdi,Weekend,High,foggy
+3,246,Aundh,Weekend,High,overcast
+11,179,Swargate,Weekend,Medium,rainy
+20,160,Baner,Weekday,Medium,clear
+20,31,Hinjewadi,Weekday,Low,cloudy
+2,161,Shivaji Nagar,Weekday,Medium,partly cloudy
+18,22,Koregaon Park,Weekday,Low,partly cloudy
+18,64,Shivaji Nagar,Weekend,Low,cloudy
+17,139,Nigdi,Weekend,Medium,rainy
+4,85,Hadapsar,Weekend,Medium,partly cloudy
+3,142,Aundh,Weekend,Medium,partly cloudy
+20,269,Wakad,Weekend,High,partly cloudy
+15,249,Hadapsar,Weekend,High,partly cloudy
+23,256,Koregaon Park,Weekend,High,partly cloudy
+19,163,Baner,Weekday,Medium,clear
+14,44,Baner,Weekday,Low,overcast
+10,34,Wakad,Weekend,Low,foggy
+2,245,Viman Nagar,Weekday,High,foggy
+23,153,Koregaon Park,Weekend,Medium,clear
+16,51,Pimpri-Chinchwad,Weekend,Low,overcast
+2,136,Hadapsar,Weekend,Medium,clear
+19,164,Koregaon Park,Weekday,Medium,partly cloudy
+7,300,Nigdi,Weekday,High,cloudy
+15,160,Kothrud,Weekend,Medium,overcast
+17,150,Swargate,Weekday,Medium,clear
+15,150,Shivaji Nagar,Weekday,Medium,overcast
+20,73,Koregaon Park,Weekday,Low,cloudy
+19,59,Hinjewadi,Weekend,Low,cloudy
+8,279,Swargate,Weekend,High,cloudy
+11,138,Hinjewadi,Weekday,Medium,clear
+13,178,Koregaon Park,Weekday,Medium,clear
+0,103,Viman Nagar,Weekday,Medium,overcast
+5,185,Hadapsar,Weekday,High,rainy
+10,226,Shivaji Nagar,Weekend,High,clear
+12,233,Baner,Weekend,High,rainy
+2,39,Kothrud,Weekday,Low,cloudy
+10,197,Nigdi,Weekday,High,cloudy
+1,87,Wakad,Weekend,Medium,clear
+8,120,Wakad,Weekend,Medium,rainy
+22,109,Nigdi,Weekday,Medium,clear
+10,82,Pimpri-Chinchwad,Weekend,Medium,foggy
+23,55,Nigdi,Weekday,Low,clear
+16,262,Aundh,Weekday,High,clear
+23,142,Koregaon Park,Weekend,Medium,overcast
+0,63,Viman Nagar,Weekend,Low,rainy
+6,218,Wakad,Weekday,High,partly cloudy
+11,285,Hinjewadi,Weekday,High,foggy
+5,28,Baner,Weekday,Low,clear
+9,170,Pimpri-Chinchwad,Weekday,Medium,rainy
+13,140,Koregaon Park,Weekday,Medium,clear
+12,286,Shivaji Nagar,Weekday,High,overcast
+3,267,Shivaji Nagar,Weekend,High,clear
+0,51,Hadapsar,Weekday,Low,foggy
+22,32,Hadapsar,Weekday,Low,overcast
+10,230,Koregaon Park,Weekend,High,cloudy
+20,236,Baner,Weekday,High,clear
+20,219,Viman Nagar,Weekday,High,cloudy
+1,247,Nigdi,Weekend,High,clear
+5,64,Hinjewadi,Weekday,Low,clear
+21,260,Wakad,Weekday,High,clear
+1,212,Koregaon Park,Weekday,High,clear
+3,35,Aundh,Weekend,Low,cloudy
+6,193,Baner,Weekday,High,partly cloudy
+7,140,Koregaon Park,Weekend,Medium,partly cloudy
+18,72,Swargate,Weekend,Low,cloudy
+1,294,Hinjewadi,Weekend,High,partly cloudy
+21,159,Baner,Weekend,Medium,foggy
+21,298,Hadapsar,Weekend,High,clear
+7,204,Shivaji Nagar,Weekday,High,rainy
+3,50,Hadapsar,Weekday,Low,clear
+16,269,Wakad,Weekday,High,clear
+21,224,Shivaji Nagar,Weekday,High,foggy
+22,42,Pimpri-Chinchwad,Weekend,Low,partly cloudy
+17,201,Shivaji Nagar,Weekday,High,rainy
+13,253,Pimpri-Chinchwad,Weekday,High,foggy
+15,26,Hinjewadi,Weekend,Low,clear
+23,213,Nigdi,Weekend,High,foggy
+19,20,Shivaji Nagar,Weekend,Low,cloudy
+21,172,Viman Nagar,Weekday,Medium,clear
+0,263,Hinjewadi,Weekday,High,overcast
+7,80,Pimpri-Chinchwad,Weekend,Medium,cloudy
+21,272,Pimpri-Chinchwad,Weekday,High,foggy
+14,200,Hinjewadi,Weekend,High,cloudy
+13,140,Koregaon Park,Weekend,Medium,cloudy
+4,169,Koregaon Park,Weekday,Medium,rainy
+7,142,Wakad,Weekday,Medium,rainy
+4,119,Viman Nagar,Weekday,Medium,rainy
+6,210,Hinjewadi,Weekend,High,clear
+19,149,Wakad,Weekday,Medium,cloudy
+4,241,Aundh,Weekend,High,clear
+19,199,Aundh,Weekday,High,clear
+22,157,Aundh,Weekend,Medium,rainy
+20,98,Hadapsar,Weekday,Medium,foggy
+8,99,Hinjewadi,Weekend,Medium,overcast
+23,267,Aundh,Weekday,High,cloudy
+19,64,Koregaon Park,Weekday,Low,rainy
+16,94,Nigdi,Weekday,Medium,clear
+22,148,Kothrud,Weekend,Medium,overcast
+15,166,Nigdi,Weekday,Medium,overcast
+4,59,Aundh,Weekday,Low,rainy
+6,58,Hadapsar,Weekend,Low,overcast
+1,45,Baner,Weekend,Low,partly cloudy
+3,118,Viman Nagar,Weekday,Medium,cloudy
+5,40,Wakad,Weekend,Low,clear
+14,140,Hinjewadi,Weekday,Medium,cloudy
+12,23,Hinjewadi,Weekend,Low,clear
+12,171,Viman Nagar,Weekday,Medium,partly cloudy
+0,79,Pimpri-Chinchwad,Weekend,Low,clear
+19,286,Aundh,Weekday,High,cloudy
+23,162,Hinjewadi,Weekend,Medium,cloudy
+4,97,Pimpri-Chinchwad,Weekend,Medium,rainy
+5,253,Aundh,Weekday,High,overcast
+5,214,Viman Nagar,Weekend,High,cloudy
+9,298,Shivaji Nagar,Weekday,High,rainy
+14,67,Viman Nagar,Weekday,Low,clear
+23,206,Nigdi,Weekday,High,cloudy
+9,20,Kothrud,Weekend,Low,rainy
+16,121,Aundh,Weekend,Medium,overcast
+0,67,Viman Nagar,Weekday,Low,partly cloudy
+2,181,Pimpri-Chinchwad,Weekend,High,clear
+22,180,Hadapsar,Weekend,High,cloudy
+14,244,Aundh,Weekday,High,partly cloudy
+8,202,Hinjewadi,Weekend,High,overcast
+18,257,Pimpri-Chinchwad,Weekday,High,rainy
+0,83,Hadapsar,Weekday,Medium,clear
+9,185,Baner,Weekday,High,partly cloudy
+5,81,Koregaon Park,Weekend,Medium,cloudy
+8,114,Swargate,Weekend,Medium,rainy
+0,106,Koregaon Park,Weekday,Medium,overcast
+20,285,Koregaon Park,Weekday,High,rainy
+7,213,Swargate,Weekend,High,overcast
+19,181,Pimpri-Chinchwad,Weekend,High,foggy
+6,225,Koregaon Park,Weekend,High,rainy
+8,30,Baner,Weekday,Low,cloudy
+19,37,Viman Nagar,Weekday,Low,overcast
+23,155,Hinjewadi,Weekend,Medium,rainy
+8,192,Hadapsar,Weekday,High,partly cloudy
+6,51,Aundh,Weekday,Low,rainy
+16,64,Hadapsar,Weekend,Low,overcast
+18,49,Shivaji Nagar,Weekend,Low,clear
+18,218,Aundh,Weekday,High,clear
+13,107,Aundh,Weekend,Medium,foggy
+16,31,Kothrud,Weekday,Low,clear
+8,112,Kothrud,Weekday,Medium,rainy
+23,165,Wakad,Weekday,Medium,clear
+19,227,Kothrud,Weekend,High,cloudy
+5,299,Kothrud,Weekend,High,clear
+18,229,Aundh,Weekend,High,clear
+17,47,Swargate,Weekend,Low,cloudy
+14,298,Hadapsar,Weekday,High,overcast
+20,231,Hadapsar,Weekend,High,overcast
+22,217,Wakad,Weekday,High,clear
+20,219,Swargate,Weekend,High,rainy
+7,73,Shivaji Nagar,Weekend,Low,rainy
+21,202,Shivaji Nagar,Weekday,High,clear
+22,225,Nigdi,Weekday,High,overcast
+3,114,Baner,Weekday,Medium,overcast
+19,140,Wakad,Weekend,Medium,overcast
+3,189,Nigdi,Weekday,High,partly cloudy
+5,102,Pimpri-Chinchwad,Weekday,Medium,foggy
+1,167,Aundh,Weekend,Medium,cloudy
+15,173,Koregaon Park,Weekday,Medium,foggy
+22,144,Shivaji Nagar,Weekday,Medium,clear
+20,231,Hadapsar,Weekend,High,cloudy
+4,68,Nigdi,Weekend,Low,overcast
+14,289,Aundh,Weekend,High,partly cloudy
+20,152,Viman Nagar,Weekday,Medium,overcast
+22,124,Hinjewadi,Weekday,Medium,clear
+10,61,Hadapsar,Weekday,Low,cloudy
+20,213,Shivaji Nagar,Weekend,High,partly cloudy
+13,276,Pimpri-Chinchwad,Weekday,High,overcast
+14,138,Swargate,Weekday,Medium,rainy
+13,72,Aundh,Weekend,Low,clear
+4,178,Viman Nagar,Weekday,Medium,cloudy
+19,41,Hadapsar,Weekend,Low,clear
+15,289,Shivaji Nagar,Weekday,High,overcast
+5,173,Baner,Weekday,Medium,foggy
+9,271,Hadapsar,Weekday,High,clear
+20,161,Wakad,Weekend,Medium,foggy
+20,130,Wakad,Weekday,Medium,cloudy
+4,241,Kothrud,Weekend,High,rainy
+14,63,Nigdi,Weekend,Low,rainy
+22,43,Hinjewadi,Weekend,Low,cloudy
+5,264,Hadapsar,Weekend,High,cloudy
+3,133,Koregaon Park,Weekend,Medium,cloudy
+22,165,Hinjewadi,Weekend,Medium,rainy
+22,64,Nigdi,Weekend,Low,partly cloudy
+5,53,Aundh,Weekend,Low,rainy
+9,119,Kothrud,Weekend,Medium,clear
+9,223,Viman Nagar,Weekend,High,cloudy
+7,145,Swargate,Weekend,Medium,clear
+5,36,Kothrud,Weekend,Low,partly cloudy
+18,294,Koregaon Park,Weekday,High,overcast
+2,114,Aundh,Weekday,Medium,rainy
+19,43,Hadapsar,Weekend,Low,clear
+0,22,Aundh,Weekend,Low,overcast
+6,199,Wakad,Weekend,High,cloudy
+8,136,Kothrud,Weekday,Medium,partly cloudy
+5,153,Hadapsar,Weekend,Medium,cloudy
+23,87,Shivaji Nagar,Weekday,Medium,clear
+7,221,Koregaon Park,Weekday,High,clear
+9,236,Aundh,Weekend,High,cloudy
+14,170,Baner,Weekend,Medium,partly cloudy
+17,153,Wakad,Weekday,Medium,clear
+8,142,Hadapsar,Weekend,Medium,partly cloudy
+2,218,Pimpri-Chinchwad,Weekday,High,clear
+14,215,Hinjewadi,Weekend,High,cloudy
+3,25,Hadapsar,Weekday,Low,foggy
+20,283,Baner,Weekday,High,rainy
+13,160,Kothrud,Weekend,Medium,clear
+14,114,Hinjewadi,Weekday,Medium,foggy
+3,222,Pimpri-Chinchwad,Weekday,High,foggy
+1,181,Koregaon Park,Weekend,High,foggy
+17,278,Wakad,Weekend,High,overcast
+20,293,Kothrud,Weekend,High,cloudy
+2,164,Swargate,Weekend,Medium,foggy
+15,299,Pimpri-Chinchwad,Weekday,High,foggy
+11,85,Koregaon Park,Weekday,Medium,overcast
+2,137,Hadapsar,Weekday,Medium,rainy
+5,209,Aundh,Weekday,High,clear
+10,89,Koregaon Park,Weekend,Medium,overcast
+15,129,Shivaji Nagar,Weekday,Medium,clear
+18,156,Hadapsar,Weekday,Medium,clear
+16,146,Pimpri-Chinchwad,Weekday,Medium,overcast
+22,265,Swargate,Weekend,High,rainy
+15,50,Kothrud,Weekend,Low,overcast
+20,189,Hinjewadi,Weekend,High,cloudy
+13,99,Koregaon Park,Weekend,Medium,cloudy
+10,39,Swargate,Weekday,Low,overcast
+3,37,Hadapsar,Weekday,Low,overcast
+13,229,Koregaon Park,Weekday,High,cloudy
+12,245,Pimpri-Chinchwad,Weekend,High,cloudy
+3,151,Hinjewadi,Weekday,Medium,clear
+2,59,Hadapsar,Weekday,Low,clear
+1,237,Kothrud,Weekday,High,clear
+20,136,Baner,Weekday,Medium,cloudy
+14,85,Koregaon Park,Weekend,Medium,overcast
+9,36,Hinjewadi,Weekday,Low,clear
+16,267,Shivaji Nagar,Weekday,High,rainy
+18,58,Nigdi,Weekend,Low,rainy
+6,62,Pimpri-Chinchwad,Weekend,Low,rainy
+6,172,Kothrud,Weekday,Medium,overcast
+13,75,Hadapsar,Weekday,Low,overcast
+22,100,Baner,Weekend,Medium,rainy
+22,142,Viman Nagar,Weekday,Medium,partly cloudy
+7,127,Pimpri-Chinchwad,Weekday,Medium,foggy
+17,117,Swargate,Weekend,Medium,overcast
+11,247,Hadapsar,Weekend,High,partly cloudy
+6,196,Aundh,Weekend,High,clear
+1,41,Viman Nagar,Weekend,Low,foggy
+6,102,Nigdi,Weekday,Medium,foggy
+22,37,Baner,Weekday,Low,foggy
+20,172,Viman Nagar,Weekday,Medium,cloudy
+20,223,Wakad,Weekday,High,partly cloudy
+10,95,Kothrud,Weekend,Medium,partly cloudy
+9,141,Baner,Weekday,Medium,cloudy
+8,122,Shivaji Nagar,Weekend,Medium,partly cloudy
+3,157,Kothrud,Weekend,Medium,clear
+21,67,Pimpri-Chinchwad,Weekday,Low,cloudy
+23,46,Wakad,Weekend,Low,clear
+17,81,Aundh,Weekend,Medium,foggy
+5,185,Wakad,Weekend,High,cloudy
+15,289,Shivaji Nagar,Weekend,High,foggy
+4,140,Pimpri-Chinchwad,Weekend,Medium,foggy
+9,245,Nigdi,Weekday,High,rainy
+4,125,Hinjewadi,Weekday,Medium,foggy
+22,283,Viman Nagar,Weekend,High,foggy
+0,186,Viman Nagar,Weekday,High,clear
+15,216,Shivaji Nagar,Weekday,High,partly cloudy
+16,199,Pimpri-Chinchwad,Weekend,High,overcast
+9,196,Hadapsar,Weekday,High,clear
+17,228,Pimpri-Chinchwad,Weekday,High,clear
+5,114,Shivaji Nagar,Weekday,Medium,foggy
+13,81,Aundh,Weekend,Medium,foggy
+8,169,Aundh,Weekend,Medium,cloudy
+10,98,Nigdi,Weekday,Medium,partly cloudy
+9,218,Viman Nagar,Weekend,High,partly cloudy
+4,79,Viman Nagar,Weekend,Low,overcast
+9,59,Nigdi,Weekend,Low,rainy
+19,249,Nigdi,Weekend,High,foggy
+8,271,Hadapsar,Weekday,High,clear
+9,206,Shivaji Nagar,Weekday,High,foggy
+1,77,Nigdi,Weekend,Low,overcast
+8,22,Kothrud,Weekend,Low,partly cloudy
+14,51,Pimpri-Chinchwad,Weekend,Low,overcast
+0,138,Koregaon Park,Weekend,Medium,overcast
+21,263,Kothrud,Weekend,High,clear
+1,285,Baner,Weekday,High,partly cloudy
+2,95,Koregaon Park,Weekend,Medium,clear
+13,258,Shivaji Nagar,Weekday,High,rainy
+18,163,Pimpri-Chinchwad,Weekday,Medium,clear
+13,45,Pimpri-Chinchwad,Weekend,Low,rainy
+23,279,Shivaji Nagar,Weekday,High,foggy
+15,148,Wakad,Weekend,Medium,clear
+14,276,Swargate,Weekday,High,clear
+6,184,Kothrud,Weekday,High,overcast
+2,162,Hadapsar,Weekend,Medium,overcast
+19,180,Swargate,Weekend,High,clear
+13,81,Nigdi,Weekend,Medium,cloudy
+12,170,Pimpri-Chinchwad,Weekday,Medium,cloudy
+18,300,Wakad,Weekend,High,clear
+6,106,Viman Nagar,Weekend,Medium,clear
+10,146,Koregaon Park,Weekend,Medium,foggy
+11,292,Baner,Weekday,High,rainy
+15,56,Kothrud,Weekday,Low,clear
+18,54,Nigdi,Weekday,Low,partly cloudy
+23,252,Hinjewadi,Weekend,High,rainy
+21,139,Kothrud,Weekday,Medium,rainy
+18,147,Baner,Weekday,Medium,rainy
+10,269,Aundh,Weekday,High,foggy
+3,245,Viman Nagar,Weekday,High,clear
+18,90,Nigdi,Weekday,Medium,rainy
+20,248,Baner,Weekday,High,cloudy
+22,266,Baner,Weekday,High,overcast
+23,158,Aundh,Weekend,Medium,clear
+9,120,Viman Nagar,Weekend,Medium,partly cloudy
+21,39,Pimpri-Chinchwad,Weekday,Low,clear
+22,20,Viman Nagar,Weekday,Low,clear
+9,98,Swargate,Weekday,Medium,clear
+22,149,Hadapsar,Weekend,Medium,partly cloudy
+6,142,Kothrud,Weekday,Medium,foggy
+12,209,Kothrud,Weekend,High,clear
+11,282,Swargate,Weekday,High,clear
+20,71,Hadapsar,Weekend,Low,cloudy
+12,215,Kothrud,Weekend,High,cloudy
+23,144,Koregaon Park,Weekend,Medium,cloudy
+11,282,Hinjewadi,Weekend,High,overcast
+19,255,Shivaji Nagar,Weekday,High,cloudy
+13,99,Aundh,Weekend,Medium,clear
+22,222,Baner,Weekday,High,cloudy
+23,178,Kothrud,Weekday,Medium,clear
+19,128,Baner,Weekend,Medium,clear
+1,270,Wakad,Weekend,High,clear
+2,147,Wakad,Weekday,Medium,clear
+23,145,Swargate,Weekend,Medium,foggy
+10,279,Swargate,Weekday,High,clear
+12,194,Aundh,Weekend,High,overcast
+3,161,Wakad,Weekday,Medium,cloudy
+4,221,Koregaon Park,Weekend,High,clear
+3,133,Nigdi,Weekday,Medium,clear
+19,174,Swargate,Weekend,Medium,rainy
+23,213,Swargate,Weekday,High,foggy
+14,283,Swargate,Weekend,High,foggy
+11,53,Baner,Weekend,Low,clear
+18,160,Kothrud,Weekday,Medium,clear
+21,44,Kothrud,Weekend,Low,foggy
+14,227,Swargate,Weekday,High,foggy
+9,146,Pimpri-Chinchwad,Weekday,Medium,cloudy
+13,252,Shivaji Nagar,Weekday,High,overcast
+8,276,Nigdi,Weekend,High,clear
+9,275,Swargate,Weekend,High,clear
+15,294,Swargate,Weekday,High,cloudy
+5,267,Hadapsar,Weekday,High,clear
+20,54,Hadapsar,Weekday,Low,rainy
+17,105,Viman Nagar,Weekday,Medium,partly cloudy
+21,251,Wakad,Weekday,High,partly cloudy
+1,269,Aundh,Weekday,High,cloudy
+6,291,Viman Nagar,Weekday,High,clear
+23,61,Baner,Weekend,Low,cloudy
+11,162,Baner,Weekend,Medium,clear
+5,268,Koregaon Park,Weekend,High,overcast
+23,70,Viman Nagar,Weekend,Low,overcast
+8,150,Kothrud,Weekend,Medium,foggy
+0,57,Pimpri-Chinchwad,Weekend,Low,foggy
+21,98,Aundh,Weekday,Medium,rainy
+5,95,Pimpri-Chinchwad,Weekday,Medium,foggy
+13,281,Wakad,Weekend,High,clear
+22,160,Pimpri-Chinchwad,Weekday,Medium,rainy
+2,178,Nigdi,Weekend,Medium,clear
+21,215,Kothrud,Weekday,High,cloudy
+23,298,Pimpri-Chinchwad,Weekend,High,foggy
