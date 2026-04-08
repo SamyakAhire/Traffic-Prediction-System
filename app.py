@@ -5,13 +5,11 @@ from utils import suggestion, alert
 
 app = Flask(__name__)
 
-# ✅ Home
 @app.route("/")
 def home():
     locations = df_original["Location"].unique().tolist()
     return render_template("index.html", locations=locations)
 
-# ✅ Prediction API
 @app.route("/predict")
 def get_prediction():
     try:
@@ -20,7 +18,6 @@ def get_prediction():
         weather = request.args.get("weather")
         day = request.args.get("day")
 
-        # 🔥 Validate inputs
         if not location:
             return jsonify({"error": "Location required"}), 400
 
@@ -30,7 +27,6 @@ def get_prediction():
         if not day:
             day = "Weekday"
 
-        # ⏱ Real-time
         if hour == "now":
             hour = datetime.now().hour
         else:
@@ -42,7 +38,6 @@ def get_prediction():
             if hour < 0 or hour > 23:
                 return jsonify({"error": "Hour must be 0-23"}), 400
 
-        # 🔥 Prediction
         level, vehicles, conf = predict(hour, location, weather, day)
 
         peak = peak_hours(location)
@@ -64,8 +59,6 @@ def get_prediction():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-
-# ✅ Chart Data API (FIXED)
 @app.route("/data")
 def data():
     location = request.args.get("location")
@@ -80,13 +73,10 @@ def data():
 
     result = df_local.groupby("Hour")["Vehicle_Count"].mean()
 
-    # 🔥 Convert keys to sorted list
     data = {int(k): float(v) for k, v in result.items()}
 
     return jsonify(data)
 
-
-# ✅ Chatbot API (SAFE)
 @app.route("/chat", methods=["POST"])
 def chat():
     try:
@@ -103,7 +93,5 @@ def chat():
     except Exception as e:
         return jsonify({"reply": "Error processing request"})
 
-
-# ✅ Run
 if __name__ == "__main__":
     app.run(debug=True)

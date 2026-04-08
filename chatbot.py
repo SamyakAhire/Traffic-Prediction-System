@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 from utils import suggestion, alert
 
-# 🧠 Memory (context)
+# Memory (context)
 context = {"location": "Hinjewadi", "weather": "Clear", "day": "Weekday", "hour": None}
 
 
@@ -24,25 +24,25 @@ def chatbot_response(msg):
 
     global context
 
-    # 📍 Location detection
+    # Location detection
     locations = ["hinjewadi", "wakad", "baner", "kothrud", "shivajinagar", "swargate"]
     for loc in locations:
         if loc in msg:
             context["location"] = loc.capitalize()
 
-    # 🌦 Weather detection
+    # Weather detection
     if "rain" in msg:
         context["weather"] = "Rain"
     elif "clear" in msg:
         context["weather"] = "Clear"
 
-    # 📅 Day detection
+    # Day detection
     if "weekend" in msg:
         context["day"] = "Weekend"
     elif "weekday" in msg:
         context["day"] = "Weekday"
 
-    # ⏰ Time detection
+    # Time detection
     extracted_hour = extract_hour(msg)
     if extracted_hour is not None:
         context["hour"] = extracted_hour
@@ -54,7 +54,7 @@ def chatbot_response(msg):
     weather = context["weather"]
     day = context["day"]
 
-    # 🔥 INTENTS
+    # INTENTS
 
     # Greeting
     if any(word in msg for word in ["hi", "hello", "hey"]):
