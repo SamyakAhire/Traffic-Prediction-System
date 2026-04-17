@@ -2,10 +2,14 @@ from model import predict, best_time, peak_hours, traffic_trend
 from datetime import datetime
 import re
 from utils import suggestion, alert
+import pytz
 
 # Memory (context)
 context = {"location": "Hinjewadi", "weather": "Clear", "day": "Weekday", "hour": None}
 
+def get_ist_hour():
+    ist = pytz.timezone('Asia/Kolkata')
+    return datetime.now(ist).hour
 
 def extract_hour(msg):
     # handles "5", "5 pm", "17", "10am"
@@ -48,7 +52,7 @@ def chatbot_response(msg):
         context["hour"] = extracted_hour
 
     # default hour
-    hour = context["hour"] if context["hour"] is not None else datetime.now().hour
+    hour = context["hour"] if context["hour"] is not None else get_ist_hour()
 
     loc = context["location"]
     weather = context["weather"]
