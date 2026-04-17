@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Samyak Study Material\BE\3rd year\smart-chatbot-project\student_chatbot\traffic
+set VIRTUAL_ENV=C:\Samyak Study Material\BE\3rd year\Project\Traffic Prediction\traffic
 
 if not defined PROMPT set PROMPT=$P$G
 

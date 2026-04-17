@@ -2,6 +2,12 @@ from flask import Flask, render_template, request, jsonify
 from model import predict, best_time, peak_hours, traffic_trend, df_original
 from datetime import datetime
 from utils import suggestion, alert
+from datetime import datetime
+import pytz
+
+def get_ist_hour():
+    ist = pytz.timezone('Asia/Kolkata')
+    return datetime.now(ist).hour
 
 app = Flask(__name__)
 
@@ -28,7 +34,8 @@ def get_prediction():
             day = "Weekday"
 
         if hour == "now":
-            hour = datetime.now().hour
+            hour = get_ist_hour()
+
         else:
             if not hour:
                 return jsonify({"error": "Enter hour"}), 400
